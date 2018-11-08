@@ -126,3 +126,7 @@ text-indent: 0;
 p::first-line {
 font-variant: small-caps;
 }
+
+iframe {
+
+}
